@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ESP32_Config</string>
+    <string name="c_input_fontsize">30dp</string>
+</resources>

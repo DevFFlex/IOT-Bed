@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@drawable/bg_layout2"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:visibility="visible"
+        android:orientation="vertical"
+        android:padding="30sp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="30sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WIFI SSID"
+                android:fontFamily="@font/oswald_bold"
+                android:textColor="@color/fg_input_show"/>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+
+                <EditText
+                    android:id="@+id/input_et_wssid"
+                    android:background="@drawable/edittext_background4"
+                    android:layout_width="250sp"
+                    android:layout_height="55sp"
+                    android:textSize="30sp"
+                    android:textAlignment="center"
+                    android:textColor="#000000"/>
+
+                <Button
+                    android:id="@+id/input_btnScanWifi"
+                    android:layout_marginHorizontal="20sp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/bg_btn_ms5"
+                    android:text="PICK"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:textSize="30sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="WIFI PASSWORD"
+                android:fontFamily="@font/oswald_bold"
+                android:textColor="@color/fg_input_show"/>
+            <EditText
+                android:id="@+id/input_et_wpass"
+                android:background="@drawable/edittext_background4"
+                android:layout_width="match_parent"
+                android:layout_height="55sp"
+                android:textSize="30sp"
+                android:textAlignment="center"
+                android:textColor="#000000"/>
+
+        </LinearLayout>
+
+        <Button
+            android:layout_marginTop="20dp"
+            android:id="@+id/input_btnOk"
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_btn_ms2"
+            android:text="Save"
+            android:textSize="25sp"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

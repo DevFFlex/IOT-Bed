@@ -1,0 +1,30 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_btn_ms1.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_btn_ms11.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_btn_ms2.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_btn_ms4.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_dialog_phinput.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_input_time.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/bg_listtime.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/edittext_background4.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/et_style1.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/drawable/status_circle_restart.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/layout/input_dialog.xml" value="0.25" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/layout/wifi_list.xml" value="0.18" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/layout/wifi_list_item.xml" value="0.33" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="..\:/Users/FFlex/AndroidStudioProjects/ESP32AAPP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1935" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_19" default="true" project-jdk-name="19" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,12 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- สีพื้นหลังของปุ่ม -->
+    <corners android:radius="8dp" /> <!-- กำหนดมุมของปุ่ม -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFE400"/>
+    <padding
+        android:left="8dp"
+        android:top="8dp"
+        android:right="8dp"
+        android:bottom="8dp" /> <!-- กำหนดระยะห่างภายในปุ่ม -->
+</shape>

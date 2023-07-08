@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:background="@drawable/bg_btn_ms7"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:id="@+id/wl_layout"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="600sp">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="300sp">
+                <TextView
+                    android:layout_gravity="center"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Loading...."
+                    android:textSize="50sp"
+                    android:fontFamily="@font/oswald_bold"
+                    android:textColor="@color/fg_input_show"/>
+            </FrameLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
